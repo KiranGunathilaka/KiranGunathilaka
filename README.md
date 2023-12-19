@@ -1,4 +1,4 @@
-### Hi!!! I am Kiran Gunathilaka ✨
+<img align="center" alt="welcome-img" src="resources/Hi.png">
 
 
 <!--
