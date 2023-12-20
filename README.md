@@ -6,5 +6,5 @@
 <p align= "center"> Currently I am learning Web Developement to work on my personal projects and to have a side income 🌎</p>
 <p align= "center"> If anyone of you have a project or something to collabarate on, never hesitate to contact me 🤩</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranGunathilaka&show=reviews,prs_merged&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranGunathilaka&size_weight=0.5&count_weight=0.5&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranGunathilaka&show=reviews,prs_merged&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranGunathilaka&size_weight=0.5&count_weight=0.5&theme=radical&layout=donut&langs_count=8)
