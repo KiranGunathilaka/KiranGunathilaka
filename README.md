@@ -83,8 +83,12 @@
 <h2 align="center">My Socials</h2>
 <p align="center">
     <a href="https://www.discordapp.com/users/kiran_gunathilaka" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.twitter.com/Endeavor360" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+    <a href="https://twitter.com/KiranGunthilaka" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/kiran-gunathilaka-1900b5188" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kiranguanthilaka@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+<!-- to add more icons, https://github.com/Ileriayo/markdown-badges -->
+
+<br>
+<p align ="right">© <a href="https://github.com/anuraghazra/github-readme-stats">stat-cards</a> <a href="https://www.freepik.com/author/upklyak">hi-image</a></p>
 
