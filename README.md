@@ -82,9 +82,9 @@
 
 <h2 align="center">My Socials</h2>
 <p align="center">
-    <a href="discordapp.com/users/kiran_gunathilaka" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="twitter.com/Endeavor360" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-    <a href="www.linkedin.com/in/kiran-gunathilaka-1900b5188" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.discordapp.com/users/kiran_gunathilaka" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.twitter.com/Endeavor360" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kiran-gunathilaka-1900b5188" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kiranguanthilaka@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
