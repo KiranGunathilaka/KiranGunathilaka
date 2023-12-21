@@ -13,6 +13,8 @@
     <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=KiranGunathilaka&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=6">
     <br>
     <img width="87%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranGunathilaka&theme=radical&hide_border=false">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=KiranGunathilaka">
 </p>
 <br>
 
