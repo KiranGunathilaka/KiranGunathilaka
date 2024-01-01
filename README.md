@@ -77,14 +77,15 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-<h4 align="center">Active forums</h4>
+<!-- <h4 align="center">Active forums</h4>
 <p align="center">
     <img alt="Hackerank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     <img alt="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </p>
-<br>
+<br> -->
 
+<br>
 <h2 align="center">My Socials</h2>
 <p align="center">
     <a href="https://www.discordapp.com/users/kiran_gunathilaka" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
